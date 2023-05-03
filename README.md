@@ -28,7 +28,7 @@ Make sure to complete both and open a PR. Then, fill in this form, add a link to
 We will review your application and reply as soon as we can. 
 
 
-## Provectus Internship Terms
+## Provectus Internship Terms 
 
 - Internship duration is 3 months
 - Internship is unpaid
